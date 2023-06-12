@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
       - name: webserver-simple
-        image: yjring/hello-gitops:1.0
+        image: yjring/hello-gitops:2.0
         ports:
         - containerPort: 8080
